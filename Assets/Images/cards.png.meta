@@ -1,0 +1,1334 @@
+fileFormatVersion: 2
+guid: a8982b6ccaff5f543949cef9b89a01b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ace-Trefa
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7fb8b654ca4674488275d04fc17ecf
+      internalID: -1009116214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Trefa
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2134f991d0b7cae4eb0d62ab0271ad6c
+      internalID: 1901099617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-Trefa
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e75969260b72348bbd2df423839e61
+      internalID: 922596370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-Trefa
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ca4f5cb3c2772418b7aa5b970eab72
+      internalID: -1982388564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Trefa
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555af9141d1238c409c5942add8938c3
+      internalID: 1155039373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-Trefa
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffe2f664ffe1a544a269b520573ba68
+      internalID: -1068171724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-Trefa
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb664de3c15c7ff43ac2bef95579b618
+      internalID: 1459774209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Trefa
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1363a2c42af9d4da3167da761d5425
+      internalID: -1400284747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-Trefa
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd682d98e8896094fb6a4f85afa13c88
+      internalID: -984782284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Trefa
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa26b7d2234f4f498c6ea749ec3d3c9
+      internalID: 132524227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: J-Trefa
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e8d05050bbdee44a47145210921dd8
+      internalID: 1805619706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q-Trefa
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be970da1a93118342a820cdc9b345004
+      internalID: 608229902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: K-Trefa
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 492
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce9bccb5c8c27346b870a8934b2cf27
+      internalID: -556257727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace-Bybna
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a682263419f24e44484d91ae27789c59
+      internalID: 380127429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Bybna
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66297fa3d2fe6f4795dd433a0e5f65f
+      internalID: 1110368843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-Bybna
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c17f7bee7ef1488f6680e3c3383f2
+      internalID: -518658745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-Bybna
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f839ff2181a9448aa324d79353f6ac
+      internalID: -1877864389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Bybna
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1c77cedb280de4c91d78243646a8a0
+      internalID: 1555311571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-Bybna
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f52a3dbf78b34344a0d2d50145adf6c
+      internalID: 913639463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-Bybna
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7551e95c0ccfe984288c03baed25902b
+      internalID: -1843283945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Bybna
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf16c77dfdf508438d5a9a72b6954f1
+      internalID: -931004890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-Bybna
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f272d4f73e6e74647b3367af4e12bcc9
+      internalID: -1899338705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Bybna
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe5efa17728b874a8347c7df5bb721f
+      internalID: 164141698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: J-Bybna
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4514cbed21a242743b9fd8a6dfc0771b
+      internalID: 1838501492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q-Bybna
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cfc3875133af849ab00c5751112e1e
+      internalID: 1610673126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: K-Bybna
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 369
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8210a4d81fe7a4247bf76c91ffb364b7
+      internalID: -1544714859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace-Chirva
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565a0b9732305f54aadb666f67f40969
+      internalID: 1668938502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Chirva
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d418ee59375144d845fa614269bc55
+      internalID: 1511855936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-Chirva
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1f1b005f7b8e74fb9802c146bbbe28
+      internalID: 984585520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-Chirva
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f6cac6e8384204aaf7e1c8b154366b
+      internalID: -29288743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Chirva
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eab9ddf90dec74088c616cbf124257
+      internalID: 1121638727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-Chirva
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b01069060682d5429741299bf5adb27
+      internalID: -1731900941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-Chirva
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4498ec1c227334548b8904d37770c6f7
+      internalID: -813581863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Chirva
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d80564d5a04ef489e662a850642179
+      internalID: -1334766699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-Chirva
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445b8c178b029f4581021334d8b423e
+      internalID: -346409978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Chirva
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0152b0e7d9a8c91449a55f419a6dd79f
+      internalID: 1530223344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: J-Chirva
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e0c9a7cb4f3da4b8335d5d7a69bf87
+      internalID: 731115274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q-Chirva
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604171046ec044d4b8a6bd8ee743bb92
+      internalID: 1513584601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: K-Chirva
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 246
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87da58ee090daa74db5cd8b05eefb8e7
+      internalID: -682483404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ace-Pika
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74f3f587f6bc03438b7c57e218d7e6a
+      internalID: -1072852157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-Pika
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e682302cbb4774ab8b1072ec4758f9
+      internalID: 1213918262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-Pika
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0869293fc3edc34886cc938bae79c58
+      internalID: -1071077051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-Pika
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c281867ae78dba41b70dc3e7efa86fb
+      internalID: 1023203848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-Pika
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc6ad71560a47447a5b37b722525792
+      internalID: 1126316807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6-Pika
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee7c82630d5ab145b68b402d8fcd6a5
+      internalID: 1627517646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7-Pika
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f995e6bd6ae697a43aba91ec44f20086
+      internalID: -1725422290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8-Pika
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9686200f886578a459813bed20c62ac6
+      internalID: -393456962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9-Pika
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc7d544a7977c1488a74f793b949157
+      internalID: -210584510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10-Pika
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d362c626eaa48da47a6378550c71c2b1
+      internalID: 456878396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: J-Pika
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77af62ffba04d9845bd2374fbccaf371
+      internalID: -120509862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q-Pika
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b898c64c755c24b885fd16a7ca7b4f
+      internalID: -2111036373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: K-Pika
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 123
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4baa156a2f8d5346b991225736fddf3
+      internalID: 2016482533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackSide
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8553b7a4cf31854e9aa857a5cb6031a
+      internalID: 1315553220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      10-Bybna: 164141698
+      10-Chirva: 1530223344
+      10-Pika: 456878396
+      10-Trefa: 132524227
+      10_Trefa: 1120718741
+      2-Bybna: 1110368843
+      2-Chirva: 1511855936
+      2-Pika: 1213918262
+      2-Trefa: 1901099617
+      2_Trefa: -1417493136
+      3-Bybna: -518658745
+      3-Chirva: 984585520
+      3-Pika: -1071077051
+      3-Trefa: 922596370
+      3_Trefa: 1493209581
+      4-Bybna: -1877864389
+      4-Chirva: -29288743
+      4-Pika: 1023203848
+      4-Trefa: -1982388564
+      4_Trefa: 1219449996
+      5-Bybna: 1555311571
+      5-Chirva: 1121638727
+      5-Pika: 1126316807
+      5-Trefa: 1155039373
+      5_Trefa: 335450279
+      6-Bybna: 913639463
+      6-Chirva: -1731900941
+      6-Pika: 1627517646
+      6-Trefa: -1068171724
+      6_Trefa: -1491064142
+      7-Bybna: -1843283945
+      7-Chirva: -813581863
+      7-Pika: -1725422290
+      7-Trefa: 1459774209
+      7_Trefa: 1099993733
+      8-Bybna: -931004890
+      8-Chirva: -1334766699
+      8-Pika: -393456962
+      8-Trefa: -1400284747
+      8_Trefa: 1496642675
+      9-Bybna: -1899338705
+      9-Chirva: -346409978
+      9-Pika: -210584510
+      9-Trefa: -984782284
+      9_Trefa: 1323312388
+      Ace-Bybna: 380127429
+      Ace-Chirva: 1668938502
+      Ace-Pika: -1072852157
+      Ace-Trefa: -1009116214
+      Ace_Trefa: 417927050
+      BackSide: 1315553220
+      J-Bybna: 1838501492
+      J-Chirva: 731115274
+      J-Pika: -120509862
+      J-Trefa: 1805619706
+      J_Trefa: -597053358
+      K-Bybna: -1544714859
+      K-Chirva: -682483404
+      K-Pika: 2016482533
+      K-Trefa: -556257727
+      K_Trefa: 94513824
+      Q-Bybna: 1610673126
+      Q-Chirva: 1513584601
+      Q-Pika: -2111036373
+      Q-Trefa: 608229902
+      Q_Trefa: 1705711824
+      cards_52: -2109322658
+      cards_53: 187356217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

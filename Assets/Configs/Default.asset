@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3567bd0824356648b80ce8db515ff5e, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  Ace_Trefa: {fileID: -1009116214, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Ace_Pika: {fileID: -1072852157, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Ace_Chervi: {fileID: 1668938502, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Ace_Bybna: {fileID: 380127429, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Two_Trefa: {fileID: 1901099617, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Two_Pika: {fileID: 1213918262, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Two_Chervi: {fileID: 1511855936, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Two_Bybna: {fileID: 1110368843, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Three_Trefa: {fileID: 922596370, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Three_Pika: {fileID: -1071077051, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Three_Chervi: {fileID: 984585520, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Three_Bybna: {fileID: -518658745, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Four_Trefa: {fileID: -1982388564, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Four_Pika: {fileID: 1023203848, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Four_Chervi: {fileID: -29288743, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Four_Bybna: {fileID: -1877864389, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Five_Trefa: {fileID: 1155039373, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Five_Pika: {fileID: 1126316807, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Five_Chervi: {fileID: 1121638727, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Five_Bybna: {fileID: 1555311571, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Six_Trefa: {fileID: -1068171724, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Six_Pika: {fileID: 1627517646, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Six_Chervi: {fileID: -1731900941, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Six_Bybna: {fileID: 913639463, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Seven_Trefa: {fileID: 1459774209, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Seven_Pika: {fileID: -1725422290, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Seven_Chervi: {fileID: -813581863, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Seven_Bybna: {fileID: -1843283945, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Eight_Trefa: {fileID: -1400284747, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Eight_Pika: {fileID: -393456962, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Eight_Chervi: {fileID: -1334766699, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Eight_Bybna: {fileID: -931004890, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Nine_Trefa: {fileID: -984782284, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Nine_Pika: {fileID: -210584510, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Nine_Chervi: {fileID: -346409978, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Nine_Bybna: {fileID: -1899338705, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Ten_Trefa: {fileID: 132524227, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Ten_Pika: {fileID: 456878396, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Ten_Chervi: {fileID: 1530223344, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Ten_Bybna: {fileID: 164141698, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Joker_Trefa: {fileID: 1805619706, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Joker_Pika: {fileID: -120509862, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Joker_Chervi: {fileID: 731115274, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Joker_Bybna: {fileID: 1838501492, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Queen_Trefa: {fileID: 608229902, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Queen_Pika: {fileID: -2111036373, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Queen_Chervi: {fileID: 1513584601, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  Queen_Bybna: {fileID: 1610673126, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  King_Trefa: {fileID: -556257727, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  King_Pika: {fileID: 2016482533, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  King_Chervi: {fileID: -682483404, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  King_Bybna: {fileID: -1544714859, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
+  BackSide: {fileID: 1315553220, guid: a8982b6ccaff5f543949cef9b89a01b7, type: 3}
