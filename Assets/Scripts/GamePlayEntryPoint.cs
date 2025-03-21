@@ -15,10 +15,4 @@ public class GamePlayEntryPoint : MonoBehaviour
         _gamePlayLogic.Init(_config, _uiDataProvider, _soundPlayer);
         _gamePlayLogic.StartGame();
     }
-
-    private void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.Space)) SignalBus.Instance.PlayerActionDid(0);
-    }
-    
 }
