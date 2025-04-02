@@ -13,6 +13,6 @@ public class GamePlayEntryPoint : MonoBehaviour
         _soundPlayer = GetComponent<SoundPlayer>();
         _gamePlayLogic = GetComponent<GamePlayLogic>();
         _gamePlayLogic.Init(_config, _uiDataProvider, _soundPlayer);
-        _gamePlayLogic.StartGame();
+        StartCoroutine(_gamePlayLogic.StartGame());
     }
 }

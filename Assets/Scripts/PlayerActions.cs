@@ -56,6 +56,6 @@ public class PlayerActions : MonoBehaviour
     public IEnumerator WaitForPlayerAction()
     {
         yield return new WaitForSeconds(isFirstDeal? _animationTime : _animationTime * 4);
-        yield return StartCoroutine(GivePlayerChoice());
+        StartCoroutine(GivePlayerChoice());
     }
 }

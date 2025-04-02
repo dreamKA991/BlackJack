@@ -18,7 +18,6 @@ public class UIDataProvider : MonoBehaviour, IRestartable
 
     private void Start()
     {
-
         SignalBus.Instance.OnRestart.AddListener(Restart);
     } 
     public Transform CanvasTransform => _canvasTransform;

@@ -96,13 +96,13 @@ namespace BlackJack.Infrastructure
 
         public IEnumerator StartDealCards()
         {
-            StartCoroutine(GiveCardForPlayer());
+            yield return StartCoroutine(GiveCardForPlayer());
             yield return new WaitForSeconds(_animationTime);
-            StartCoroutine(GiveCardForDealer());
+            yield return StartCoroutine(GiveCardForDealer());
             yield return new WaitForSeconds(_animationTime);
-            StartCoroutine(GiveCardForPlayer());
+            yield return StartCoroutine(GiveCardForPlayer());
             yield return new WaitForSeconds(_animationTime);
-            StartCoroutine(GiveHidenCardForDealer());
+            yield return StartCoroutine(GiveHidenCardForDealer());
             yield return new WaitForSeconds(_animationTime);
         }
 

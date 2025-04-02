@@ -7,8 +7,7 @@ namespace BlackJack.Gameplay
     [RequireComponent(typeof(PopupShower))]
     public class GamePlayLogic : MonoBehaviour, IRestartable
     {
-        private const float CARDANIMATIONTIME = 0.25f;
-        private const float PRERESULTDELAY = 0.6f;
+        private const float CARDANIMATIONTIME = 0.15f;
         private int _dealerPoints, _playerPoints;
         private CardFabric _cardFabric;
         private ObjectPoolGenerator _objectPoolGenerator;
@@ -39,13 +38,13 @@ namespace BlackJack.Gameplay
             SignalBus.Instance.OnRestart.AddListener(Restart);
         }
         
-        public void StartGame()
+        public IEnumerator StartGame()
         {
             _dealerPoints = 0;
             _playerPoints = 0;
             _decksData.AllDeck = _objectPoolGenerator.GenerateCardsPool();
-            GiveFirstCards();
-            WaitForPlayerAction();
+            yield return StartCoroutine(GiveFirstCards());
+            yield return StartCoroutine(WaitForPlayerAction());
             SignalBus.Instance.OnPlayerActionDid.AddListener(DoActions);
         }
 
@@ -76,14 +75,14 @@ namespace BlackJack.Gameplay
             while (_dealerPoints < 17)
             {
                 yield return _deckOperations.StartCoroutine(_deckOperations.GiveCardForDealer());
-                StartCoroutine(WaitAndCountPoints());
+                yield return StartCoroutine(WaitAndCountPoints());
                 CheckResult(false, true);
             }
 
             if (_playerPoints > _dealerPoints )
             {
                 yield return _deckOperations.StartCoroutine(_deckOperations.GiveCardForDealer());
-                StartCoroutine(WaitAndCountPoints());
+                yield return StartCoroutine(WaitAndCountPoints());
             }
             CheckResult(false, true);
         }
@@ -103,14 +102,14 @@ namespace BlackJack.Gameplay
             _playerPoints = _deckOperations.CountPointsFromDeck(_decksData.PlayerDeck);
         }
         
-        private void GiveFirstCards()
+        private IEnumerator GiveFirstCards()
         {
-            _deckOperations.StartCoroutine(_deckOperations.StartDealCards());
+            yield return _deckOperations.StartCoroutine(_deckOperations.StartDealCards());
         }
 
-        private void WaitForPlayerAction()
-        {
-            _playerActions.StartCoroutine(_playerActions.WaitForPlayerAction());
+        private IEnumerator WaitForPlayerAction()
+        { 
+            yield return _playerActions.StartCoroutine(_playerActions.WaitForPlayerAction());
         }
         private void GivePlayerPoints()
         {
@@ -168,20 +167,20 @@ namespace BlackJack.Gameplay
 
         private IEnumerator GameWin()
         {
-            yield return new WaitForSeconds(PRERESULTDELAY);
+            yield return new WaitForSeconds(CARDANIMATIONTIME);
             _soundPlayer.PlayResultSound();
             _popupShower.GameWin();
         }
 
         private IEnumerator GameLose()
         {
-            yield return new WaitForSeconds(PRERESULTDELAY);
+            yield return new WaitForSeconds(CARDANIMATIONTIME);
             _soundPlayer.PlayResultSound();
             _popupShower.GameLose();
         }
         private IEnumerator GameDraw()
         {
-            yield return new WaitForSeconds(PRERESULTDELAY);
+            yield return new WaitForSeconds(CARDANIMATIONTIME);
             _soundPlayer.PlayResultSound();
             _popupShower.GameDraw();
         }
@@ -190,7 +189,7 @@ namespace BlackJack.Gameplay
             Debug.Log("Restarting game");
             isPlayerDidChoice = false;
             _decksData.Restart();
-            StartGame();
+            StartCoroutine(StartGame());
         }
     }
 }
